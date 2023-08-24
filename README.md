@@ -52,6 +52,6 @@ conta pertence a somente um usuário.
 > [!NOTE]
 > Para vincular um usuário a uma conta, filtre a lista de usuários buscando o número do CPF informado para cada usuário da lista.
 
-<br>
-
 ## :bank: Link do primeiro desafio: [Criando um sistema bancário](https://github.com/walterowisk/DIO_LabProject-SistemaBancarioComPython)
+
+<br>
