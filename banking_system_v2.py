@@ -46,7 +46,7 @@ def sacar(*, saldo, valor, extrato, limite, numero_saques, limite_saques):
         print("\n!!! Saque realizado! Recolha seu dinheiro. !!!")
 
     else:
-        print("\n## Falha na operação! O valor informado é inválido. @@@")
+        print("\n## Falha na operação! O valor informado é inválido. ##")
 
     return saldo, extrato, numero_saques
 
