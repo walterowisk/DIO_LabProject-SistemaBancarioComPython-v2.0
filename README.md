@@ -42,7 +42,7 @@ O programa deve armazenar os usuários em uma lista, um usuário é composto por
 endereço. O endereço é uma string com o formato: logradouro, nro - bairro - cidade/sigla estado. Deve ser armazenado
 somente os números do CPF. Não podemos cadastrar 2 usuários com o mesmo CPF.
 
-## :link: Criar conta corrente
+## :money_with_wings: Criar conta corrente
 O programa deve armazenar contas em uma lista, uma conta é composta por: agência, número da conta e usuário. O número
 da conta é sequencial, iniciando em `1`. O número da agência é fixo: `0001`. O usuário pode ter mais de uma conta, mas uma
 conta pertence a somente um usuário.
@@ -53,6 +53,6 @@ conta pertence a somente um usuário.
 > Para vincular um usuário a uma conta, filtre a lista de usuários buscando o número do CPF informado para cada usuário da lista.
 
 ## :placard: Referência
-Link do primeiro desafio: [Criando um sistema bancário](https://github.com/walterowisk/DIO_LabProject-SistemaBancarioComPython)
+:link: Link do primeiro desafio: [Criando um sistema bancário em Python](https://github.com/walterowisk/DIO_LabProject-SistemaBancarioComPython)
 
 <br>
